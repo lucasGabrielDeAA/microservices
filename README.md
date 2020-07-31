@@ -16,5 +16,5 @@
 
 ## Requests
 
-Go to [localhost:3333](http://localhost:3333/users) - To retrieve informations via gateway's request
-Go to [localhost:3334](http://localhost:3334/users) - To retrieve informations via user's direct request
+Go to [localhost:3333](http://localhost:3333/users) - To retrieve informations via gateway's request.<br />
+Go to [localhost:3334](http://localhost:3334/users) - To retrieve informations via user's direct request.<br />
